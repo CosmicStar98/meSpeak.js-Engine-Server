@@ -20,7 +20,7 @@ First, if you have Git Bash installed, type this in the console
 
 ```
 git clone https://github.com/CosmicStar98/meSpeak.js-Engine-Server
-cd mespeak-engine
+cd meSpeak.js-Engine-Server
 ```
 
 And that's the tutorial. Simple and easy.
