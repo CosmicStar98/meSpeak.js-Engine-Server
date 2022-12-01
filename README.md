@@ -19,7 +19,7 @@ If you are going to host the engine, heres a way how you can do it.
 First, if you have Git Bash installed, type this in the console
 
 ```
-git clone https://github.com/Seamusmario/mespeak-engine
+git clone https://github.com/CosmicStar98/meSpeak.js-Engine-Server
 cd mespeak-engine
 ```
 
